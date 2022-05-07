@@ -1,4 +1,5 @@
 # coding: utf-8
+# Code copied from https://github.com/auspicious3000/autovc #
 """
 Synthesis waveform from trained WaveNet.
 

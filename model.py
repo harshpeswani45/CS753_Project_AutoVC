@@ -1,4 +1,4 @@
-# Code copied from https://github.com/auspicious3000/autovc
+# Some part of the code copied from https://github.com/auspicious3000/autovc 
 
 import torch
 import torch.nn as nn

@@ -1,4 +1,4 @@
-#Code from ____________
+# Code copied from https://github.com/auspicious3000/autovc #
 import os
 import pickle
 import numpy as np

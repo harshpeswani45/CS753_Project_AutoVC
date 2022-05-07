@@ -1,6 +1,6 @@
 # NOTE: If you want full control for model architecture. please take a look
 # at the code and change whatever you want. Some hyper parameters are hardcoded.
-
+# Code copied from https://github.com/auspicious3000/autovc #
 
 class Map(dict):
 	"""
